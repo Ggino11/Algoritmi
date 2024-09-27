@@ -1,0 +1,12 @@
+# Exclude executable files and compiled objects
+bin/
+*.o
+*.exe
+*.out
+
+# Ignore data files and csv
+data/
+*.csv
+
+# Exclude editor configuration files
+.vscode/
