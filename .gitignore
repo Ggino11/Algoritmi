@@ -1,0 +1,35 @@
+# Exclude executable files and compiled objects for ex 1 
+Ex1/bin/
+*.o
+*.exe
+*.out
+
+# Ignore data files and csv for ex 1
+Ex1/data/
+*.csv
+
+# Exclude editor configuration files
+.vscode/
+
+
+# Exclude executable files and compiled objects for ex 2
+Ex2/bin/
+*.o
+*.exe
+*.out
+# Ignore data files and csv for ex 2
+Ex2/data/
+*.csv
+
+Ex3-4/.idea
+
+Ex3-4/bin/
+*.class
+
+Ex3-4/data/*
+
+/out/
+/laboratorio-algoritmi-2023-2024.iml/
+
+
+
